@@ -1,0 +1,6 @@
+{
+  "name": "Deriv Trading Dashboard",
+  "description": "A web-based trading dashboard connecting to the Deriv API via WebSockets for live market data, strategy analysis, and trade execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
